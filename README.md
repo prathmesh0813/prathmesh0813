@@ -12,7 +12,8 @@
 ### My Skills and Tools & Software I Use
 ![My Skills](https://skillicons.dev/icons?i=java,spring,go,nginx,postman,html,css,eclipse,vscode,mongodb,postgres,sqlite,docker,k8s,discord,github,git)
 
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 

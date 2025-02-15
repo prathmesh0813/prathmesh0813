@@ -9,3 +9,11 @@
 ʜɪ ᴛʜᴇʀᴇ, ᴍʏ ɴᴀᴍᴇ ɪꜱ PRATHMESH GONJARE, ᴀɴᴅ ɪ ᴀᴍ ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡɪᴛʜ ᴀ ꜱᴘᴇᴄɪᴀʟ ɪɴᴛᴇʀᴇꜱᴛ ɪɴ ꜰᴜʟʟ₋ꜱᴛᴀᴄᴋ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ. ᴀᴛ ᴛʜᴇ ᴀɢᴇ ᴏꜰ ᴊᴜꜱᴛ 23 ʏᴇᴀʀꜱ ᴏʟᴅ, ɪ ʙᴇɢᴀɴ ᴇxᴘʟᴏʀɪɴɢ ᴛʜᴇ ᴡᴏʀʟᴅ ᴏꜰ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ᴀɴᴅ ʜᴀᴠᴇ ʙᴇᴇɴ ʜᴏᴏᴋᴇᴅ ᴇᴠᴇʀ ꜱɪɴᴄᴇ.
 
 
+### My Skills and Tools & Software I Use
+![My Skills](https://skillicons.dev/icons?i=java,spring,go,nginx,postman,html,css,eclipse,vscode,mongodb,postgres,sqlite,docker,k8s,discord,github,git)
+
+
+
+
+
+
